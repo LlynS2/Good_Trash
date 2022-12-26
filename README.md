@@ -6,10 +6,10 @@
   
 </div> 
 
-<div align="left" >
+<div align="center" >
   <img height="300px" src="https://user-images.githubusercontent.com/86667062/209580312-b6a2274a-5c0a-4d35-9194-b6631cc58b5d.png"><br><br>
   
-  <p>
+  <p align="left">
     ╭────────────────<br>
     ╰─ ¡  𝓒𝓱𝓪𝓵𝓵𝓮𝓷𝓰𝓮 𝓖𝓵𝓸𝓫𝓪𝓷𝓽 ! ⨾࿐ྂ
   </p>
