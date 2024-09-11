@@ -1,66 +1,39 @@
-<div align="right" >
-  
-  <p>
-  ꜥꜤ  大学挑战 ❛.⌇ <br>____________________
-  </p>
-  
+<div align="right">
+   Other languages : <a href="https://github.com/LlynS2/Good_Trash/tree/Português" target="_blank">Português <img src="https://github.com/user-attachments/assets/fa0289cd-3feb-4b62-a6b5-19d80a95a50c" width="15"></a> | <a href="https://github.com/LlynS2/Good_Trash/tree/Español" target="_blank">Español <img src="https://github.com/user-attachments/assets/0a4eb85c-cd21-43fc-bd98-7c1042f7b08e" width="17"></a> | <a href="https://github.com/LlynS2/Good_Trash/tree/中文" target="_blank">中文 <img src="https://github.com/user-attachments/assets/e3939437-846c-452f-b2a8-ec4dc394d7d9" width="17"></a> | <a href="https://github.com/LlynS2/Good_Trash/tree/한국어" target="_blank">한국어 <img src="https://github.com/user-attachments/assets/5f6886c4-4a79-49b7-b33c-053e1b7ba8c4" width="17"></a>
+</div><br>
+<div align="left" >
+ <img height="33px" src="https://github.com/user-attachments/assets/87cbc476-cf48-422e-9285-b698e6f368ba">
+ <p>________________________________________________________________</p><br>
 </div> 
-
 <div align="center" >
-  <img height="300px" src="https://user-images.githubusercontent.com/86667062/209580312-b6a2274a-5c0a-4d35-9194-b6631cc58b5d.png"><br><br>
-  
-  <p align="left">
-    ╭────────────────<br>
-    ╰─ ¡  𝓒𝓱𝓪𝓵𝓵𝓮𝓷𝓰𝓮 𝓖𝓵𝓸𝓫𝓪𝓷𝓽 ! ⨾࿐ྂ
-  </p>
-  
+  <img height="250px" src="https://user-images.githubusercontent.com/86667062/209580312-b6a2274a-5c0a-4d35-9194-b6631cc58b5d.png"><br><br>
   <p align="right">
     ˚✧┊ ℂ𝕙𝕒𝕝𝕝𝕖𝕟𝕘𝕖 ·˚ ༘ ˎˊ˗<br>
     <p align="center">
-  
   <p>
-    𝙶𝚘𝚘𝚍 𝚃𝚛𝚊𝚜𝚑 𝚠𝚊𝚜 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚌𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚌𝚘𝚖𝚙𝚊𝚗𝚢 𝙶𝚕𝚘𝚋𝚊𝚗𝚝, 𝚠𝚑𝚒𝚌𝚑 𝚠𝚊𝚜 𝚐𝚒𝚟𝚎𝚗 𝚝𝚑𝚎 𝚘𝚋𝚓𝚎𝚌𝚝𝚒𝚟𝚎𝚜 𝚘𝚏 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚊𝚗𝚍 𝚘𝚙𝚝𝚒𝚖𝚒𝚣𝚒𝚗𝚐 𝚝𝚑𝚎 𝚠𝚘𝚛𝚔 𝚘𝚏 𝚝𝚑𝚎 𝚐𝚊𝚛𝚋𝚊𝚐𝚎 
-    𝚝𝚛𝚞𝚌𝚔𝚜  𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚛𝚎𝚜𝚒𝚍𝚎𝚗𝚝𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚜𝚝𝚊𝚝𝚎 𝚘𝚏 𝚂ã𝚘 𝙿𝚊𝚞𝚕𝚘. 𝚆𝚒𝚝𝚑 𝚝𝚑𝚊𝚝, 𝚠𝚎 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚘𝚞𝚛 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚝𝚑𝚊𝚝 𝚑𝚎𝚕𝚙𝚜 𝚋𝚘𝚝𝚑 𝚝𝚑𝚎 𝚌𝚒𝚝𝚢 𝚛𝚎𝚜𝚒𝚍𝚎𝚗𝚝 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚠𝚘𝚛𝚔𝚎𝚛 𝚙𝚊𝚛𝚝 𝚘𝚏 𝚝𝚑𝚎 
-    𝚌𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚍𝚊𝚢𝚜.<br><br>
-    𝚆𝚎 𝚙𝚞𝚝 𝚒𝚗 𝚝𝚘𝚘𝚕𝚜 𝚝𝚘 𝚕𝚎𝚝 𝚢𝚘𝚞 𝚔𝚗𝚘𝚠 𝚠𝚑𝚎𝚗 𝚝𝚑𝚎 𝚌𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚍𝚊𝚢 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚕𝚘𝚌𝚊𝚝𝚒𝚘𝚗 𝚠𝚑𝚎𝚛𝚎 𝚝𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝚊𝚕𝚛𝚎𝚊𝚍𝚢 𝚠𝚘𝚛𝚔𝚎𝚛𝚜 𝚌𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚗𝚐, 𝚊𝚜 𝚠𝚎𝚕𝚕 𝚊𝚜, 
-    𝚠𝚎 𝚙𝚞𝚝 𝚒𝚗 𝚊 𝚐𝚊𝚖𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚝𝚘 𝚎𝚗𝚌𝚘𝚞𝚛𝚊𝚐𝚎 𝚛𝚎𝚜𝚒𝚍𝚎𝚗𝚝𝚜 𝚝𝚘 𝚜𝚝𝚘𝚙 𝚝𝚑𝚛𝚘𝚠𝚒𝚗𝚐 𝚐𝚊𝚛𝚋𝚊𝚐𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚝𝚛𝚎𝚎𝚝, 𝚠𝚒𝚗𝚗𝚒𝚗𝚐 𝚙𝚛𝚒𝚣𝚎𝚜 𝚏𝚘𝚛 𝚎𝚊𝚌𝚑 𝚍𝚊𝚢 𝚌𝚘𝚛𝚛𝚎𝚌𝚝 𝚘𝚏 𝚌𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗.
+   Good Trash was developed for the challenge of the company Globant, which was given the objectives of improving and optimizing the work of the garbage trucks with the residents of the state of São Paulo. With that, we created our application that helps both the city resident and the worker part of the collection days.
+We put in tools to let you know when the collection day will be and the location where there are already workers collecting, as well as, we put in a gamification to encourage residents to stop throwing garbage in the street, winning prizes for each day correct of collection.
   </p>
-  
 </div><br>
-
 <div>
-  
   <p align="center">
-    ↳ 🅐🅟🅟 🅕🅤🅝🅒🅣🅘🅞🅝🅢 ¡๑°⸙͎ ˎ´-<br>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
+    ↳ APP Fuctions ¡๑°⸙͎ ˎ´-<br>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
   </p>
-  
   <table>
-     <tr> 
-          <td align="right" >- ̗̀⁽ ℝ𝕖𝕤𝕚𝕕𝕖𝕟𝕥 𝕌𝕤𝕖𝕣 !❜</td>
-     </tr>
-     <tr>
-       <td><video src="https://user-images.githubusercontent.com/86667062/209581903-9936cd1d-396c-4db8-9544-bf3ab89e5db5.mp4"></td>
-     </tr>
+     <tr><td align="right" >- ̗̀⁽ ℝ𝕖𝕤𝕚𝕕𝕖𝕟𝕥 𝕌𝕤𝕖𝕣 !❜</td></tr>
+     <tr><td><video src="https://user-images.githubusercontent.com/86667062/209581903-9936cd1d-396c-4db8-9544-bf3ab89e5db5.mp4"></td></tr>
   </table>  
   <table>
-     <tr> 
-          <td align="left" >- ̗̀⁽ 𝔼𝕞𝕡𝕝𝕠𝕪𝕖𝕖 𝕌𝕤𝕖𝕣 !❜</td>
-     </tr>
-     <tr>
-       <td><video src="https://user-images.githubusercontent.com/86667062/209581931-6bf20b77-c706-47b6-9f0b-431da4109b97.mp4"></td>
-     </tr>
+     <tr><td align="left" >- ̗̀⁽ 𝔼𝕞𝕡𝕝𝕠𝕪𝕖𝕖 𝕌𝕤𝕖𝕣 !❜</td></tr>
+     <tr><td><video src="https://user-images.githubusercontent.com/86667062/209581931-6bf20b77-c706-47b6-9f0b-431da4109b97.mp4"></td></tr>
   </table>  
 </div><br>
-
+       
  <p>
-     ੈ  ғɪɢᴍᴀ ᴏғ ᴛʜᴇ ʟɪɴᴋ - ᴛᴇsᴛ ʏᴏᴜʀsᴇʟғ ᴛᴏᴏ! ꒱ .* ❞ : <br>
+     ੈ  Figma of the link - Test yourself too! ꒱ .* ❞ : <br>
      https://www.figma.com/proto/CvCPZcosPKb0vMEKJFYoUI/Good-Trash?scaling=scale-down&page-id=0%3A1&starting-point-node-id=85%3A31&node-id=85%3A31
   </p>
 
-<div>
-
-   <p>
-     ____________________<br> - ̗̀⁽ 再见 !❜
-   </p>
-  
+<div align="right">
+   <p>________________________________________________________________</p><br>
 </div>
